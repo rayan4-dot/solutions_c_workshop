@@ -18,7 +18,7 @@ int main() {
         printf("Note atteinte: Assez Bien\n");
     } 
     else if (moyen >= 14 && moyen < 16) {
-        printf("Note atteinte: Bien\n");
+        printf("Note atteinte: B-ien\n");
     } 
     else { 
         printf("Note atteinte: Très Bien\n");
